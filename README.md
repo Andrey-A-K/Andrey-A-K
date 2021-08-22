@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+development stack:
+Linux, Git, Github, Gitlab, Heroku, API, Django, Django Rest Framework, Bootstrap, HTML5, CSS3, Bootstrap, SQL, Postgress, Pytest, Docker
+
+
 contact me
 
 @AndreyA_Kor - telegram
