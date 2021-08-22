@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Andrey korablin 👋
 
 development stack:
 Linux, Git, Github, Gitlab, Heroku, API, Django, Django Rest Framework, Bootstrap, HTML5, CSS3, Bootstrap, SQL, Postgress, Pytest, Docker
